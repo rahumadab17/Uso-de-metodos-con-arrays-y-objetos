@@ -1,0 +1,20 @@
+body {
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-right: 1335px;
+    padding: 0;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 700px;
+}
+
+p {
+    background-color: yellow;
+}
+
+p:hover {
+    background-color: rgb(0, 255, 0);
+}
